@@ -1,5 +1,7 @@
 # bday_card
 A android birthday card application.
+<br>
+<img alt="bday" title="bday" src=".github/app.png" />
 
 Introduction
 ==
