@@ -5,8 +5,13 @@ A android birthday card application.
 
 Introduction
 ==
-This application was made following the steps of the first unit of the Android Basics in Kotlin couse avaliable at 
+This was my first Android application, made following the steps of the first unit of the Android Basics in Kotlin couse avaliable at 
 [this link.](https://developer.android.com/courses/android-basics-kotlin/course)
+
+What i've learned(WIP)
+==
+In this unit i've learned about:
+<ul>
 
 Getting started
 ==
